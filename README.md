@@ -2,4 +2,4 @@
 
 * [Patika](https://academy.patika.dev/tr/dashboard)
 
-[ss.png]
+(ss.png)
